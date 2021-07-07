@@ -13,5 +13,6 @@ We serve our clients on-site in Porto Alegre - RS area, or remotely anywhere wit
 
 # Contact
 
-w2tllc at gmail dot com
-+55 (51) 98138-7034
+![](images/email.png) w2tllc at gmail dot com
+
+![](images/phone.png) +55 (51) 98138-7034

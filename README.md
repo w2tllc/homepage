@@ -1,4 +1,5 @@
-# W2T
+# W2T TECH - WITTER TECNOLOGIA DA INFORMACAO LTDA
+
 We provide worldwide IT services, such as support, tranining, software development, software customization and software maintenance.
 
 Contact us by phone: +55 (51) 98138-7034
@@ -13,6 +14,8 @@ We serve our clients on-site in Porto Alegre - RS area, or remotely anywhere wit
 
 # Contact
 
-![](images/email.png) w2tllc at gmail dot com
+This site is owned and operated by Eduardo Witter dos Santos.
+
+![](images/email.png) ewitter at gmail dot com
 
 ![](images/phone.png) +55 (51) 98138-7034
